@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!--    activity_main.xml   -->
+    <string name="text_title">阿溟记事本</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Sign Up</string>
+
+    <!--    login.xml   -->
+    <string name="login_login">Login</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_Login">Login</string>
+    <!--    notePadInfo.xml     -->
+    <string name="info_title">阿溟记事本</string>
+    <string name="info_hit">今天发生了什么开心的事</string>
+    <!--    NotePadList.xml     -->
+    <string name="notePadList_title">阿溟记事本</string>
+
+    <!--    register.xml    -->
+    <string name="register_title">Register</string>
+    <string name="register_username">Username</string>
+    <string name="register_password">Password</string>
+    <string name="register_rePassword">Password</string>
+    <string name="register_button">Register</string>
+    <!--    userinfo.xml    -->
+    <string name="userinfo_title">你也喜欢猫咪老师对吧</string>
+    <string name="userinfo_username">夏目のように、猫先生はいつもあなたのそばにいます</string>
+    <string name="font_fo">fonts/fo.ttf</string>"
+
+
+    <string name="add_record">添加记录</string>
+    <string name="edit_record">修改记录</string>
+    <string name="note_save_success">保存成功</string>
+    <string name="note_save_failed">保存失败</string>
+    <string name="note_error_empty_content">内容不能为空!</string>
+
+
+</resources>
